@@ -1,19 +1,19 @@
 # TEMPLATE
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org/)
+This session is part of [**Biodiversity Genomics Academy**](https://thebgacademy.org/)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/TEMPLATE)
+To open this session click “Code” → “Codespaces” → “Create codespace on main”.
 
-[YouTube Recording](https://www.youtube.com/@thebiodiversitygenomicsacademy) <-- To be updated after BGA24
+[YouTube Recording](https://www.youtube.com/@thebiodiversitygenomicsacademy) <-- To be updated after BGA Event
 
 ## Session Leader(s)
-
+{{ For Session Leader to complete }}
 
 ## Description
-
-
+{{ For Session Leader to complete }}
 
 ## Prerequisites
+{{ For Session Leader to complete }}
 
 1. Understanding of linux command line basics
 
@@ -22,9 +22,7 @@ This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgac
 >    You will get the most out of this session if you meet the prerequisites above.
 >
 >    Please also read the description carefully to see if this session is relevant to you.
->    
->    If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email damon at thebgacademy.org to cancel your slot so that someone else on the waitlist might attend.
 
 
 ## Instructions
-For Session Leader
+{{ For Session Leader to complete }}
