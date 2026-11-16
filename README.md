@@ -2,7 +2,8 @@
 
 This session is part of [**Biodiversity Genomics Academy**](https://thebgacademy.org/)
 
-To open this session click “Code” → “Codespaces” → “Create codespace on main”.
+To open this session click “Code” → “Codespaces” → “Create codespace on main” or click the link below.
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/thebgacademy/{{REPO_NAME}}/tree/{{BRANCH}}) <-- UPDATE
 
 [YouTube Recording](https://www.youtube.com/@thebiodiversitygenomicsacademy) <-- To be updated after BGA Event
 
